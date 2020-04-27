@@ -89,7 +89,7 @@ h1 {
     color: #fff;
 }
 .item {
-    background: url("../src/1.jpg");
+    background: url("../src/1.webp");
     background-size: cover;
     background-position: center;
     -webkit-box-shadow: -2px 2px 10px 0px rgba(68, 68, 68, 0.4);
@@ -144,19 +144,19 @@ span {
 }
 /* End Categories */
 .item:nth-of-type(3n) {
-    background-image: url("../src/2.jpg");
+    background-image: url("../src/2.webp");
 }
 
 .item:nth-of-type(4n) {
-    background-image: url("../src/2.jpg");
+    background-image: url("../src/2.webp");
 }
 
 .item:nth-of-type(5n) {
-    background-image: url("../src/2.jpg");
+    background-image: url("../src/2.webp");
 }
 
 .item:nth-of-type(6n) {
-    background-image: url("../src/2.jpg");
+    background-image: url("../src/2.webp");
 }
 
 .item:after {
